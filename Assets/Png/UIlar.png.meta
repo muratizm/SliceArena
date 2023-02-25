@@ -1,0 +1,4556 @@
+fileFormatVersion: 2
+guid: 15d0a58e38486e44b8fac5460cd1c11d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 895307397618496326
+    second: UIlar_0
+  - first:
+      213: 4294840101046747364
+    second: UIlar_1
+  - first:
+      213: -1994071667887681735
+    second: UIlar_2
+  - first:
+      213: 737883588594257034
+    second: UIlar_3
+  - first:
+      213: -474339512746283845
+    second: UIlar_4
+  - first:
+      213: 7703542980874358820
+    second: UIlar_5
+  - first:
+      213: -7180409727790928345
+    second: UIlar_6
+  - first:
+      213: 2680274671755115260
+    second: UIlar_7
+  - first:
+      213: 7748180077682456560
+    second: UIlar_8
+  - first:
+      213: -3926334253587979274
+    second: UIlar_9
+  - first:
+      213: -7923757439218987877
+    second: UIlar_10
+  - first:
+      213: 586650507254674859
+    second: UIlar_11
+  - first:
+      213: -6584433008982270724
+    second: UIlar_12
+  - first:
+      213: 2651128989986135992
+    second: UIlar_13
+  - first:
+      213: 5412973992129466702
+    second: UIlar_14
+  - first:
+      213: -8036569430683531732
+    second: UIlar_15
+  - first:
+      213: 5535582625416556224
+    second: UIlar_16
+  - first:
+      213: -1674066848167071172
+    second: UIlar_17
+  - first:
+      213: -3542626915683307186
+    second: UIlar_18
+  - first:
+      213: -8091885123724825943
+    second: UIlar_19
+  - first:
+      213: -2877324109445481132
+    second: UIlar_20
+  - first:
+      213: -2758441432742763799
+    second: UIlar_21
+  - first:
+      213: -5562753932940205836
+    second: UIlar_22
+  - first:
+      213: 4267232528924956054
+    second: UIlar_23
+  - first:
+      213: 3621125784778354675
+    second: UIlar_24
+  - first:
+      213: 8535508743423161364
+    second: UIlar_25
+  - first:
+      213: 2395715451149584712
+    second: UIlar_26
+  - first:
+      213: -4073853957079130538
+    second: UIlar_27
+  - first:
+      213: 7286319450519233390
+    second: UIlar_28
+  - first:
+      213: 6789390706654915104
+    second: UIlar_29
+  - first:
+      213: -922991757553306848
+    second: UIlar_30
+  - first:
+      213: 7487825643453759334
+    second: UIlar_31
+  - first:
+      213: 3519141082397721238
+    second: UIlar_32
+  - first:
+      213: -4364100062623135077
+    second: UIlar_33
+  - first:
+      213: -3707114183935853753
+    second: UIlar_34
+  - first:
+      213: 8184315796459853366
+    second: UIlar_35
+  - first:
+      213: 7658040600766899883
+    second: UIlar_36
+  - first:
+      213: -1556514364946648582
+    second: UIlar_37
+  - first:
+      213: 8338112196702448443
+    second: UIlar_38
+  - first:
+      213: -7610569769519678175
+    second: UIlar_39
+  - first:
+      213: 6423567250943042961
+    second: UIlar_40
+  - first:
+      213: 466099176422369319
+    second: UIlar_41
+  - first:
+      213: 7676957490642928417
+    second: UIlar_42
+  - first:
+      213: 2997972304516438740
+    second: UIlar_43
+  - first:
+      213: 2586189907953163636
+    second: UIlar_44
+  - first:
+      213: -5190289418837721146
+    second: UIlar_45
+  - first:
+      213: 608712591478960087
+    second: UIlar_46
+  - first:
+      213: 3798497370932063323
+    second: UIlar_47
+  - first:
+      213: 527237589487667092
+    second: UIlar_48
+  - first:
+      213: 2321317090656373908
+    second: UIlar_49
+  - first:
+      213: -4505015617394669011
+    second: UIlar_50
+  - first:
+      213: -7297150689794201765
+    second: UIlar_51
+  - first:
+      213: 2050895369848500475
+    second: UIlar_52
+  - first:
+      213: 8306932660684360835
+    second: UIlar_53
+  - first:
+      213: -5216474338135749715
+    second: UIlar_54
+  - first:
+      213: -4813979933586008414
+    second: UIlar_55
+  - first:
+      213: -782936189219341041
+    second: UIlar_56
+  - first:
+      213: 317203683023156112
+    second: UIlar_57
+  - first:
+      213: -4260643012403531751
+    second: UIlar_58
+  - first:
+      213: -2438199542459112625
+    second: UIlar_59
+  - first:
+      213: 5375086992664735080
+    second: UIlar_60
+  - first:
+      213: -4529899981581362128
+    second: UIlar_61
+  - first:
+      213: -7333290274075546284
+    second: UIlar_62
+  - first:
+      213: -317009055637253422
+    second: UIlar_63
+  - first:
+      213: 975022393373446849
+    second: UIlar_64
+  - first:
+      213: 7534964569049633353
+    second: UIlar_65
+  - first:
+      213: 7730503054789250689
+    second: UIlar_66
+  - first:
+      213: -1098203013895170736
+    second: UIlar_67
+  - first:
+      213: 8219159928901517829
+    second: UIlar_68
+  - first:
+      213: 435899731467398525
+    second: UIlar_69
+  - first:
+      213: -3946747312676863895
+    second: UIlar_70
+  - first:
+      213: -4175831260813019704
+    second: UIlar_71
+  - first:
+      213: 1230267384011666913
+    second: UIlar_72
+  - first:
+      213: -8237065063016699419
+    second: UIlar_73
+  - first:
+      213: 3651195683912997809
+    second: UIlar_74
+  - first:
+      213: 1864805798305280092
+    second: UIlar_75
+  - first:
+      213: 8141834459932212606
+    second: UIlar_76
+  - first:
+      213: -2904479763523211206
+    second: UIlar_77
+  - first:
+      213: 5730269999869008187
+    second: UIlar_78
+  - first:
+      213: -7009316423766153415
+    second: UIlar_79
+  - first:
+      213: 6269368226983724673
+    second: UIlar_80
+  - first:
+      213: 806558390614865166
+    second: UIlar_81
+  - first:
+      213: 993839234257606248
+    second: UIlar_82
+  - first:
+      213: -2122913360004725022
+    second: UIlar_83
+  - first:
+      213: 1101269814195212321
+    second: UIlar_84
+  - first:
+      213: 9119016397783850866
+    second: UIlar_85
+  - first:
+      213: -3730079511458507809
+    second: UIlar_86
+  - first:
+      213: -2175751093986881033
+    second: UIlar_87
+  - first:
+      213: 7421449696036807083
+    second: UIlar_88
+  - first:
+      213: 9216226930738016019
+    second: UIlar_89
+  - first:
+      213: 2545759180287415646
+    second: UIlar_90
+  - first:
+      213: 6807971165488428292
+    second: UIlar_91
+  - first:
+      213: 413940732857594096
+    second: UIlar_92
+  - first:
+      213: -8140228621491642374
+    second: UIlar_93
+  - first:
+      213: -794081407343734544
+    second: UIlar_94
+  - first:
+      213: 5219186553417882070
+    second: UIlar_95
+  - first:
+      213: -2218803467349696488
+    second: UIlar_96
+  - first:
+      213: 3574480268532367390
+    second: UIlar_97
+  - first:
+      213: 4075617622514575612
+    second: UIlar_98
+  - first:
+      213: 3733734696338306736
+    second: UIlar_99
+  - first:
+      213: -7797940640013974823
+    second: UIlar_100
+  - first:
+      213: -8924476470247952592
+    second: UIlar_101
+  - first:
+      213: 2884668530139244779
+    second: UIlar_102
+  - first:
+      213: -2454791994506699198
+    second: UIlar_103
+  - first:
+      213: 1602961747759955561
+    second: UIlar_104
+  - first:
+      213: 4808369102251136971
+    second: UIlar_105
+  - first:
+      213: -6839557332616032016
+    second: UIlar_106
+  - first:
+      213: -1777772128490126777
+    second: UIlar_107
+  - first:
+      213: 1332307458484404327
+    second: UIlar_108
+  - first:
+      213: -2854571168940612271
+    second: UIlar_109
+  - first:
+      213: 7790096216083121183
+    second: UIlar_110
+  - first:
+      213: 5370086381953548392
+    second: UIlar_111
+  - first:
+      213: 4247165946957431731
+    second: UIlar_112
+  - first:
+      213: -1267098860867639408
+    second: UIlar_113
+  - first:
+      213: 2610620841340278330
+    second: UIlar_114
+  - first:
+      213: 9192065809669422919
+    second: UIlar_115
+  - first:
+      213: -1015368793544098795
+    second: UIlar_116
+  - first:
+      213: -8568140221589020932
+    second: UIlar_117
+  - first:
+      213: 4791869448084404773
+    second: UIlar_118
+  - first:
+      213: -8561760000147385289
+    second: UIlar_119
+  - first:
+      213: 5870913754473745092
+    second: UIlar_120
+  - first:
+      213: 1582953947980432131
+    second: UIlar_121
+  - first:
+      213: 635834590257271948
+    second: UIlar_122
+  - first:
+      213: -2802277599679876592
+    second: UIlar_123
+  - first:
+      213: -7636039955787793359
+    second: UIlar_124
+  - first:
+      213: -1982059444861881186
+    second: UIlar_125
+  - first:
+      213: -740722650601624091
+    second: UIlar_126
+  - first:
+      213: -6887573217045543006
+    second: UIlar_127
+  - first:
+      213: -5423068662253303507
+    second: UIlar_128
+  - first:
+      213: -345694779048161440
+    second: UIlar_129
+  - first:
+      213: -6419152209717201171
+    second: UIlar_130
+  - first:
+      213: 2097389202799244532
+    second: UIlar_131
+  - first:
+      213: -5452095451986608216
+    second: UIlar_132
+  - first:
+      213: 1848938895711354555
+    second: UIlar_133
+  - first:
+      213: 7527887790925645169
+    second: UIlar_134
+  - first:
+      213: 3895109355186181916
+    second: UIlar_135
+  - first:
+      213: -1764813487636036098
+    second: UIlar_136
+  - first:
+      213: 7769692042224006101
+    second: UIlar_137
+  - first:
+      213: -5239063047716963084
+    second: UIlar_138
+  - first:
+      213: 7948607825384459508
+    second: UIlar_139
+  - first:
+      213: -635516932959496843
+    second: UIlar_140
+  - first:
+      213: 1026264673564208789
+    second: UIlar_141
+  - first:
+      213: 6087952502881139838
+    second: UIlar_142
+  - first:
+      213: -7683823722621380217
+    second: UIlar_143
+  - first:
+      213: -3035202795938504884
+    second: UIlar_144
+  - first:
+      213: 1065040375770180901
+    second: UIlar_145
+  - first:
+      213: -2866037085529364062
+    second: UIlar_146
+  - first:
+      213: -270019649413072068
+    second: UIlar_147
+  - first:
+      213: 6079822606623442612
+    second: UIlar_148
+  - first:
+      213: -6408777615566653958
+    second: UIlar_149
+  - first:
+      213: -7250570194478867881
+    second: UIlar_150
+  - first:
+      213: 2300681491963204898
+    second: UIlar_151
+  - first:
+      213: 7665171201841147552
+    second: UIlar_152
+  - first:
+      213: 8550158262447107739
+    second: UIlar_153
+  - first:
+      213: -8233321766076774103
+    second: UIlar_154
+  - first:
+      213: 6524148356225379544
+    second: UIlar_155
+  - first:
+      213: 2369780693418995560
+    second: UIlar_156
+  - first:
+      213: -5807074053673018006
+    second: UIlar_157
+  - first:
+      213: 1157241857902426952
+    second: UIlar_158
+  - first:
+      213: -2238299087323158039
+    second: UIlar_159
+  - first:
+      213: -7765719583213267600
+    second: UIlar_160
+  - first:
+      213: 7100132841900619515
+    second: UIlar_161
+  - first:
+      213: 7968194184059085063
+    second: UIlar_162
+  - first:
+      213: -2725286118696664424
+    second: UIlar_163
+  - first:
+      213: -4695112800809867652
+    second: UIlar_164
+  - first:
+      213: -951292199800609940
+    second: UIlar_165
+  - first:
+      213: -2589873508798763512
+    second: UIlar_166
+  - first:
+      213: -5329683939021118172
+    second: UIlar_167
+  - first:
+      213: -6775197255800751241
+    second: UIlar_168
+  - first:
+      213: -2598122325584462028
+    second: UIlar_169
+  - first:
+      213: 5372203754665593271
+    second: UIlar_170
+  - first:
+      213: 5211780137932537908
+    second: UIlar_171
+  - first:
+      213: -8374975889505035106
+    second: UIlar_172
+  - first:
+      213: -3783079774546111306
+    second: UIlar_173
+  - first:
+      213: 3633369681588247067
+    second: UIlar_174
+  - first:
+      213: 6573108495162233888
+    second: UIlar_175
+  - first:
+      213: -588834352360355868
+    second: UIlar_176
+  - first:
+      213: -2938950270504842711
+    second: UIlar_177
+  - first:
+      213: 6120677519707416880
+    second: UIlar_178
+  - first:
+      213: 3014225936132291232
+    second: UIlar_179
+  - first:
+      213: 8095337495830518578
+    second: UIlar_180
+  - first:
+      213: -6936561866365340058
+    second: UIlar_181
+  - first:
+      213: 9186969364131316111
+    second: UIlar_182
+  - first:
+      213: -3007140477827538917
+    second: UIlar_183
+  - first:
+      213: 7647703274237214811
+    second: UIlar_184
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UIlar_0
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2652
+        width: 427
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64374d7a555cc6c00800000000000000
+      internalID: 895307397618496326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_1
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 2652
+        width: 429
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e08efd11565a9b30800000000000000
+      internalID: 4294840101046747364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_2
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2652
+        width: 429
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f42e21262a354e0800000000000000
+      internalID: -1994071667887681735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_3
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 2652
+        width: 427
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c40cfd63d7d3a00800000000000000
+      internalID: 737883588594257034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_4
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 2744
+        width: 185
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc63dfe9beca69f0800000000000000
+      internalID: -474339512746283845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_5
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 2744
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42058f6a68b78ea60800000000000000
+      internalID: 7703542980874358820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_6
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 2744
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e2341656f0a5c90800000000000000
+      internalID: -7180409727790928345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_7
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 2744
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfab07efc9f323520800000000000000
+      internalID: 2680274671755115260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_8
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 2744
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f77502aab0178b60800000000000000
+      internalID: 7748180077682456560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_9
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 2744
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3a0798ccbd289c0800000000000000
+      internalID: -3926334253587979274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_10
+      rect:
+        serializedVersion: 2
+        x: 3501
+        y: 2744
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c4ef44798290290800000000000000
+      internalID: -7923757439218987877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_11
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 2744
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5b7343783342800800000000000000
+      internalID: 586650507254674859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_12
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2412
+        width: 427
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc514c60156f94a0800000000000000
+      internalID: -6584433008982270724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_13
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 2412
+        width: 429
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf1dd525c3bac420800000000000000
+      internalID: 2651128989986135992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_14
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2412
+        width: 429
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e411e4baa2fbe1b40800000000000000
+      internalID: 5412973992129466702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_15
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 2412
+        width: 427
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26485faeae587090800000000000000
+      internalID: -8036569430683531732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_16
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 2527
+        width: 185
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce27cca11752dc40800000000000000
+      internalID: 5535582625416556224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_17
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 2527
+        width: 184
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c327eb8321584c8e0800000000000000
+      internalID: -1674066848167071172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_18
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 2527
+        width: 184
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4175fef69f06dec0800000000000000
+      internalID: -3542626915683307186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_19
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 2527
+        width: 186
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa2d154a59d3bf80800000000000000
+      internalID: -8091885123724825943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_20
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 2527
+        width: 186
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45db5d897f0b118d0800000000000000
+      internalID: -2877324109445481132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_21
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 2527
+        width: 184
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2e5abb12c08b9d0800000000000000
+      internalID: -2758441432742763799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_22
+      rect:
+        serializedVersion: 2
+        x: 3501
+        y: 2527
+        width: 184
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0213e45c02dc2b0800000000000000
+      internalID: -5562753932940205836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_23
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 2527
+        width: 186
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69550945061483b30800000000000000
+      internalID: 4267232528924956054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_24
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 2178
+        width: 185
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffa8b837b2d04230800000000000000
+      internalID: 3621125784778354675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_25
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 2178
+        width: 183
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4147af4aaf7347670800000000000000
+      internalID: 8535508743423161364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_26
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 2178
+        width: 185
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8498fa0828a4f3120800000000000000
+      internalID: 2395715451149584712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_27
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 2178
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e9a750963c677c0800000000000000
+      internalID: -4073853957079130538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_28
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 2178
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63e7388fe43e1560800000000000000
+      internalID: 7286319450519233390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_29
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 2309
+        width: 185
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a218f30e2c83e50800000000000000
+      internalID: 6789390706654915104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_30
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 2309
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023fb6003efd033f0800000000000000
+      internalID: -922991757553306848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_31
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 2309
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f3f1220c91ae760800000000000000
+      internalID: 7487825643453759334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_32
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 2309
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692ccc25b2086d030800000000000000
+      internalID: 3519141082397721238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_33
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 2309
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a86137d1a9f63c0800000000000000
+      internalID: -4364100062623135077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_34
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 2309
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bf0b47a4fad8cc0800000000000000
+      internalID: -3707114183935853753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_35
+      rect:
+        serializedVersion: 2
+        x: 3501
+        y: 2309
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6369b91cad7849170800000000000000
+      internalID: 8184315796459853366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_36
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 2309
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6ea343a53d64a60800000000000000
+      internalID: 7658040600766899883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_37
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 2092
+        width: 185
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1ff8d8e66266ae0800000000000000
+      internalID: -1556514364946648582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_38
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 2092
+        width: 184
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b2dcd9ddce6b370800000000000000
+      internalID: 8338112196702448443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_39
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 2092
+        width: 184
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12df37dfd13d16690800000000000000
+      internalID: -7610569769519678175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_40
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 2092
+        width: 186
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195ea479168152950800000000000000
+      internalID: 6423567250943042961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_41
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 2092
+        width: 186
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728e1c04bbae77600800000000000000
+      internalID: 466099176422369319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_42
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 2092
+        width: 184
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123cb89d9280a8a60800000000000000
+      internalID: 7676957490642928417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_43
+      rect:
+        serializedVersion: 2
+        x: 3501
+        y: 2092
+        width: 184
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da59215defea9920800000000000000
+      internalID: 2997972304516438740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_44
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 2092
+        width: 186
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d9f31e40ef3e320800000000000000
+      internalID: 2586189907953163636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_45
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1873
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf75bcd54368f7b0800000000000000
+      internalID: -5190289418837721146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_46
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1873
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df296970e4927800800000000000000
+      internalID: 608712591478960087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_47
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1873
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c29aacb39f6b430800000000000000
+      internalID: 3798497370932063323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_48
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1873
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49745a15bcf115700800000000000000
+      internalID: 527237589487667092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_49
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1873
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ccd975899f63020800000000000000
+      internalID: 2321317090656373908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_50
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1873
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a8a912a28fa71c0800000000000000
+      internalID: -4505015617394669011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_51
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1873
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57e15e0c105bba90800000000000000
+      internalID: -7297150689794201765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_52
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1873
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf03057097e367c10800000000000000
+      internalID: 2050895369848500475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_53
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 1873
+        width: 185
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c8e2d2e37284370800000000000000
+      internalID: 8306932660684360835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_54
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 1873
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab4a7f3a3c5b97b0800000000000000
+      internalID: -5216474338135749715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_55
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1873
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a65fb681ce413db0800000000000000
+      internalID: -4813979933586008414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_56
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 1873
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d78cf1fa37225f0800000000000000
+      internalID: -782936189219341041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_57
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 1873
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0937a00b11fe66400800000000000000
+      internalID: 317203683023156112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_58
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 1873
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910ffea01c72fd4c0800000000000000
+      internalID: -4260643012403531751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_59
+      rect:
+        serializedVersion: 2
+        x: 3501
+        y: 1873
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43643c2f66c92ed0800000000000000
+      internalID: -2438199542459112625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_60
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 1873
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86daa923425289a40800000000000000
+      internalID: 5375086992664735080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_61
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1654
+        width: 186
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c5bc997ff8221c0800000000000000
+      internalID: -4529899981581362128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_62
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1654
+        width: 184
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d66e2695bea3a90800000000000000
+      internalID: -7333290274075546284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_63
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1654
+        width: 184
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2d82881f1c99bf0800000000000000
+      internalID: -317009055637253422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_64
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1654
+        width: 186
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2531d63b9f78d00800000000000000
+      internalID: 975022393373446849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_65
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1654
+        width: 186
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9429b558a52919860800000000000000
+      internalID: 7534964569049633353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_66
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1654
+        width: 184
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e09c30293484b60800000000000000
+      internalID: 7730503054789250689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_67
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1654
+        width: 184
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055d3896d2662c0f0800000000000000
+      internalID: -1098203013895170736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_68
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1654
+        width: 186
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502cc4a8862501270800000000000000
+      internalID: 8219159928901517829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_69
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 1654
+        width: 185
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d6dcb0f70ac0600800000000000000
+      internalID: 435899731467398525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_70
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 1654
+        width: 184
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9600ba9da365a39c0800000000000000
+      internalID: -3946747312676863895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_71
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1654
+        width: 184
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5b441c7977c06c0800000000000000
+      internalID: -4175831260813019704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_72
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 1654
+        width: 186
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5b3c2eaa9c21110800000000000000
+      internalID: 1230267384011666913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_73
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 1654
+        width: 186
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9eb1f87f010bd80800000000000000
+      internalID: -8237065063016699419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_74
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 1654
+        width: 184
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbd2113127aba230800000000000000
+      internalID: 3651195683912997809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_75
+      rect:
+        serializedVersion: 2
+        x: 3501
+        y: 1654
+        width: 184
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50331f4efe11e910800000000000000
+      internalID: 1864805798305280092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_76
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 1654
+        width: 186
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d3b44dd4b9df070800000000000000
+      internalID: 8141834459932212606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_77
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1437
+        width: 186
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3073ed2b0731b7d0800000000000000
+      internalID: -2904479763523211206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_78
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1437
+        width: 184
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3915416432068f40800000000000000
+      internalID: 5730269999869008187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_79
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1437
+        width: 184
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9376b1b79d7e9be90800000000000000
+      internalID: -7009316423766153415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_80
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1437
+        width: 186
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1864c779f25410750800000000000000
+      internalID: 6269368226983724673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_81
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1437
+        width: 186
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05b53b3598713b00800000000000000
+      internalID: 806558390614865166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_82
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1437
+        width: 184
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86655c99483dacd00800000000000000
+      internalID: 993839234257606248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_83
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1437
+        width: 184
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6ccf7fb85e982e0800000000000000
+      internalID: -2122913360004725022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_84
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1437
+        width: 186
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12057fcaf0f784f00800000000000000
+      internalID: 1101269814195212321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_85
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 1437
+        width: 185
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f5ed269114d8e70800000000000000
+      internalID: 9119016397783850866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_86
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 1437
+        width: 184
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd39d8772781c3cc0800000000000000
+      internalID: -3730079511458507809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_87
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1437
+        width: 184
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f19e3b58ed2ec1e0800000000000000
+      internalID: -2175751093986881033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_88
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 1437
+        width: 186
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba164b29d294ef660800000000000000
+      internalID: 7421449696036807083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_89
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 1437
+        width: 186
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f2708509d96ef70800000000000000
+      internalID: 9216226930738016019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_90
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 1437
+        width: 184
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5598b88c7a545320800000000000000
+      internalID: 2545759180287415646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_91
+      rect:
+        serializedVersion: 2
+        x: 3501
+        y: 1437
+        width: 184
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4053a0074b5ca7e50800000000000000
+      internalID: 6807971165488428292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_92
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 1437
+        width: 186
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0ba0447ec9eb500800000000000000
+      internalID: 413940732857594096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_93
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1219
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affd5819239180f80800000000000000
+      internalID: -8140228621491642374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_94
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1219
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0d880da2bdaf4f0800000000000000
+      internalID: -794081407343734544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_95
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1219
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9d7f494864e6840800000000000000
+      internalID: 5219186553417882070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_96
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1219
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810673e800a3531e0800000000000000
+      internalID: -2218803467349696488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_97
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1219
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10c386adda1b9130800000000000000
+      internalID: 3574480268532367390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_98
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1219
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8ad4652a08f8830800000000000000
+      internalID: 4075617622514575612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_99
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1219
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6bbc49ce3e0d330800000000000000
+      internalID: 3733734696338306736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_100
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1219
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2826c9d4628c390800000000000000
+      internalID: -7797940640013974823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_101
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 1219
+        width: 185
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fe9882fe3e52480800000000000000
+      internalID: -8924476470247952592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_102
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 1219
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8a2b99eb6680820800000000000000
+      internalID: 2884668530139244779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_103
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1219
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e94f1efa3deedd0800000000000000
+      internalID: -2454791994506699198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_104
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 1219
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e75cb773dde3610800000000000000
+      internalID: 1602961747759955561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_105
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 1219
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc794a00932cab240800000000000000
+      internalID: 4808369102251136971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_106
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 1219
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0d080f7d20511a0800000000000000
+      internalID: -6839557332616032016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_107
+      rect:
+        serializedVersion: 2
+        x: 3501
+        y: 1219
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74281cd0ba51457e0800000000000000
+      internalID: -1777772128490126777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_108
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 1219
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760019a139e4d7210800000000000000
+      internalID: 1332307458484404327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_109
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1002
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155293165a68268d0800000000000000
+      internalID: -2854571168940612271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_110
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1002
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14cfbd1c3bfb1c60800000000000000
+      internalID: 7790096216083121183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_111
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1002
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8600189cc11668a40800000000000000
+      internalID: 5370086381953548392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_112
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1002
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b388822de6f0fa30800000000000000
+      internalID: 4247165946957431731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_113
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1002
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097aea6ac4c5a6ee0800000000000000
+      internalID: -1267098860867639408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_114
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1002
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a369153d2d9ca3420800000000000000
+      internalID: 2610620841340278330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_115
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1002
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ffb59f627c09f70800000000000000
+      internalID: 9192065809669422919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_116
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1002
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c79c0467fa8e1f0800000000000000
+      internalID: -1015368793544098795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_117
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 1002
+        width: 185
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe137a4dd9d71980800000000000000
+      internalID: -8568140221589020932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_118
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 1002
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a3e17efd3208240800000000000000
+      internalID: 4791869448084404773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_119
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1002
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734111b54a48e2980800000000000000
+      internalID: -8561760000147385289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_120
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 1002
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cacc5a44fca97150800000000000000
+      internalID: 5870913754473745092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_121
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 1002
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3030d259a38c7f510800000000000000
+      internalID: 1582953947980432131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_122
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 1002
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84d038e030f2d800800000000000000
+      internalID: 635834590257271948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_123
+      rect:
+        serializedVersion: 2
+        x: 3501
+        y: 1002
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012fb05ce5f4c19d0800000000000000
+      internalID: -2802277599679876592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_124
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 1002
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c34902e16570690800000000000000
+      internalID: -7636039955787793359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_125
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 783
+        width: 186
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94bc41bf6f4e74e0800000000000000
+      internalID: -1982059444861881186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_126
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 783
+        width: 184
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ededcd7cac68b5f0800000000000000
+      internalID: -740722650601624091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_127
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 783
+        width: 184
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a78189a6ac6a60a0800000000000000
+      internalID: -6887573217045543006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_128
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 783
+        width: 186
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29c6d9c8c36db4b0800000000000000
+      internalID: -5423068662253303507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_129
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 783
+        width: 186
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f80261e68d33bf0800000000000000
+      internalID: -345694779048161440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_130
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 783
+        width: 184
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de674ac43179ae6a0800000000000000
+      internalID: -6419152209717201171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_131
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 783
+        width: 184
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4b6941e5c6b1d10800000000000000
+      internalID: 2097389202799244532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_132
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 783
+        width: 186
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afb0d6a2144654b0800000000000000
+      internalID: -5452095451986608216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_133
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 783
+        width: 185
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe374a2120c8a910800000000000000
+      internalID: 1848938895711354555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_134
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 783
+        width: 184
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1758f17bf0e687860800000000000000
+      internalID: 7527887790925645169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_135
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 783
+        width: 184
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c175c2542553e0630800000000000000
+      internalID: 3895109355186181916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_136
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 783
+        width: 186
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5c2aebb7f1287e0800000000000000
+      internalID: -1764813487636036098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_137
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 783
+        width: 186
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3f0fe2fbd73db60800000000000000
+      internalID: 7769692042224006101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_138
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 783
+        width: 184
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc74f47aeb1b47b0800000000000000
+      internalID: -5239063047716963084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_139
+      rect:
+        serializedVersion: 2
+        x: 3501
+        y: 783
+        width: 184
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc4ee224b02f4e60800000000000000
+      internalID: 7948607825384459508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_140
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 783
+        width: 186
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575143277b03e27f0800000000000000
+      internalID: -635516932959496843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_141
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 566
+        width: 186
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ea35188460e3e00800000000000000
+      internalID: 1026264673564208789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_142
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 566
+        width: 184
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c3ea7cb80cc7450800000000000000
+      internalID: 6087952502881139838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_143
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 566
+        width: 184
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789de60f8039d5590800000000000000
+      internalID: -7683823722621380217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_144
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 566
+        width: 186
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f10d6632bc0e5d0800000000000000
+      internalID: -3035202795938504884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_145
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 566
+        width: 186
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dea353498c7ce00800000000000000
+      internalID: 1065040375770180901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_146
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 566
+        width: 184
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a92de3a47ac938d0800000000000000
+      internalID: -2866037085529364062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_147
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 566
+        width: 184
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bbb5a3f82b04cf0800000000000000
+      internalID: -270019649413072068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_148
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 566
+        width: 186
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b60e2dc27edf5450800000000000000
+      internalID: 6079822606623442612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_149
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 566
+        width: 185
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5bcabb6b27f07a0800000000000000
+      internalID: -6408777615566653958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_150
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 566
+        width: 184
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a5d03c2dcc06b90800000000000000
+      internalID: -7250570194478867881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_151
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 566
+        width: 184
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22558cd90a9adef10800000000000000
+      internalID: 2300681491963204898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_152
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 566
+        width: 186
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aeab44a898206a60800000000000000
+      internalID: 7665171201841147552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_153
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 566
+        width: 186
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ee78693a348a670800000000000000
+      internalID: 8550158262447107739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_154
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 566
+        width: 184
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929808bc97d5dbd80800000000000000
+      internalID: -8233321766076774103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_155
+      rect:
+        serializedVersion: 2
+        x: 3501
+        y: 566
+        width: 184
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc23c21d5e6a8a50800000000000000
+      internalID: 6524148356225379544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_156
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 566
+        width: 186
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f61da2cf623e020800000000000000
+      internalID: 2369780693418995560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_157
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 348
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d9e665ae0296fa0800000000000000
+      internalID: -5807074053673018006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_158
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 348
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bbc73a6595f0010800000000000000
+      internalID: 1157241857902426952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_159
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 348
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9a50fc6d6ffe0e0800000000000000
+      internalID: -2238299087323158039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_160
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 348
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07557410f2f9a3490800000000000000
+      internalID: -7765719583213267600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_161
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 348
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6329b933db88260800000000000000
+      internalID: 7100132841900619515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_162
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 348
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701ec22a466b49e60800000000000000
+      internalID: 7968194184059085063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_163
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 348
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89248c7d6b6dd2ad0800000000000000
+      internalID: -2725286118696664424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_164
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 348
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76a65f88cb97deb0800000000000000
+      internalID: -4695112800809867652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_165
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 350
+        width: 185
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63e841d8c45cc2f0800000000000000
+      internalID: -951292199800609940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_166
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 350
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80eead6f3cbee0cd0800000000000000
+      internalID: -2589873508798763512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_167
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 350
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425aa8102b82906b0800000000000000
+      internalID: -5329683939021118172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_168
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 350
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b7bcc0ef9a9f1a0800000000000000
+      internalID: -6775197255800751241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_169
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 350
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fb684a28d91fbd0800000000000000
+      internalID: -2598122325584462028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_170
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 350
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9ccd90ad6ed8a40800000000000000
+      internalID: 5372203754665593271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_171
+      rect:
+        serializedVersion: 2
+        x: 3501
+        y: 350
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430c7e81c66f35840800000000000000
+      internalID: 5211780137932537908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_172
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 350
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c579f0dcb16cb80800000000000000
+      internalID: -8374975889505035106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_173
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 131
+        width: 186
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4d6391dfccf7bc0800000000000000
+      internalID: -3783079774546111306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_174
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 131
+        width: 184
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1addb899725c6230800000000000000
+      internalID: 3633369681588247067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_175
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 131
+        width: 184
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0245f3cb95f583b50800000000000000
+      internalID: 6573108495162233888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_176
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 131
+        width: 186
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7830cb64a04d7f0800000000000000
+      internalID: -588834352360355868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_177
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 131
+        width: 186
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a450adc40c637d0800000000000000
+      internalID: -2938950270504842711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_178
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 131
+        width: 184
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03921e286c301f450800000000000000
+      internalID: 6120677519707416880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_179
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 131
+        width: 184
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa3fe3d48ea4d920800000000000000
+      internalID: 3014225936132291232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_180
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 131
+        width: 186
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bd0efbf8a685070800000000000000
+      internalID: 8095337495830518578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_181
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 131
+        width: 185
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666f5c8ebb16cbf90800000000000000
+      internalID: -6936561866365340058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_182
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 131
+        width: 184
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81817746fbae7f70800000000000000
+      internalID: 9186969364131316111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_183
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 131
+        width: 184
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10246dfaad7446d0800000000000000
+      internalID: -3007140477827538917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIlar_184
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 131
+        width: 186
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b504080db99122a60800000000000000
+      internalID: 7647703274237214811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3d36c04246ef04f408a5a0c5e548a61a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

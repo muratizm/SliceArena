@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e97b0ca948d759e4494d15f1c3d1dfce, type: 3}
+  m_Name: ShopData
+  m_EditorClassIdentifier: 
+  shopItems:
+  - itemName: Basic Sword
+    isUnlocked: 1
+    unlockCost: 500
+    unlockedLevel: 2
+    weaponLevel:
+    - unlockCost: 500
+      damage: 10
+    - unlockCost: 500
+      damage: 15
+    - unlockCost: 500
+      damage: 20
+  - itemName: Great Sword
+    isUnlocked: 0
+    unlockCost: 1350
+    unlockedLevel: 1
+    weaponLevel:
+    - unlockCost: 0
+      damage: 16
+    - unlockCost: 0
+      damage: 24
+  - itemName: Battle Axe
+    isUnlocked: 1
+    unlockCost: 4000
+    unlockedLevel: 2
+    weaponLevel:
+    - unlockCost: 1500
+      damage: 35
+    - unlockCost: 1500
+      damage: 40
+    - unlockCost: 3000
+      damage: 50
+  - itemName: Toothpick
+    isUnlocked: 1
+    unlockCost: 500
+    unlockedLevel: 2
+    weaponLevel:
+    - unlockCost: 300
+      damage: 10
+    - unlockCost: 700
+      damage: 15
+    - unlockCost: 1100
+      damage: 20
+  selectedIndex: 3
